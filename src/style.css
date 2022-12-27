@@ -7,7 +7,7 @@
   justify-content: start;
   align-items: center;
   width: 65%;
-  height: 80vh;
+  height: 100vh;
   margin: 100px auto;
   background: #fff;
   border-radius: 15px;
@@ -17,7 +17,7 @@
 .menu-ctn {
   background-image: url('./assets/bg-sidebar-desktop.svg');
   background-repeat: no-repeat;
-  margin-top: 50px;
+  margin-top: 120px;
   margin-left: 20px;
   position: relative;
 }
@@ -42,7 +42,7 @@
     justify-content: space-around;
     align-items: center;
     width: 90%;
-    height: 120vh;
+    height: 150vh;
     margin: 150px auto;
     border-radius: 20px;
     box-shadow: 0px 2px 5px 5px rgba(153, 153, 153, 0.5);
