@@ -17,8 +17,8 @@
 .menu-ctn {
   background-image: url('./assets/bg-sidebar-desktop.svg');
   background-repeat: no-repeat;
-  top: 4%;
-  left: 2%;
+  margin-top: 50px;
+  margin-left: 20px;
   position: relative;
 }
 
